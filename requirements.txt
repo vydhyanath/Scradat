@@ -1,0 +1,7 @@
+scanpy
+statsmodels
+seaborn
+scikit-learn
+numba
+pytables
+scipy
