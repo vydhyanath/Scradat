@@ -5,3 +5,6 @@ scikit-learn
 numba
 pytables
 scipy
+plotly
+bokeh
+matplotlib
